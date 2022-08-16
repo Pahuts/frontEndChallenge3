@@ -109,6 +109,10 @@ hr {
   border: 1px solid #fff;
   border-radius: 50px;
 }
+
+.creator span {
+  color: #fff;
+}
 .attribution {
   margin-top: 20px;
   font-size: 11px;
